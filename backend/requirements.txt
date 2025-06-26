@@ -7,7 +7,6 @@ dotenv
 chromadb
 sqlalchemy
 chromadb
-streamlit
 sentence-transformers>=2.3.0
 transformers
 torch
