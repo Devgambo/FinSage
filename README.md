@@ -1,4 +1,4 @@
-# 🧠 FinSolve AI Assistant
+# 🧠 FinSage AI Assistant
 
 A full-stack **Role-Based AI Assistant** for HR and Finance teams — powered by **FastAPI**, **React**, **Zustand**, and **LLM-based Retrieval-Augmented Generation (RAG)**.  
 It enables authorized users (HRs, Analysts, etc.) to query internal documents securely and conversationally.
