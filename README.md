@@ -2,6 +2,7 @@
 
 A full-stack **Role-Based AI Assistant** for HR and Finance teams — powered by **FastAPI**, **React**, **Zustand**, and **LLM-based Retrieval-Augmented Generation (RAG)**.  
 It enables authorized users (HRs, Analysts, etc.) to query internal documents securely and conversationally.
+![img1](https://github.com/user-attachments/assets/ca17407e-a0c4-484b-937f-cda0d5db300c)
 
 ---
 
@@ -88,29 +89,6 @@ It enables authorized users (HRs, Analysts, etc.) to query internal documents se
 
 ---
 
-## 💬 Chat Example
-
-```json
-POST /chat
-{
-  "message": "Show all Business Analysts"
-}
-```
-
-Response:
-
-```json
-{
-  "message": {
-    "response": "['Krishna Malhotra', 'Sai Sharma']",
-    "source_locations": [...],
-    "source_content": [...]
-  }
-}
-```
-
----
-
 ## 📁 Folder Structure
 
 ```
@@ -146,4 +124,10 @@ frontend/
 
 ---
 ## 🖼️UI
+![img2](https://github.com/user-attachments/assets/3425372b-db34-46d2-bd64-a07cf3e037c8)
+![img3](https://github.com/user-attachments/assets/2dfb36e1-6f04-41d7-b51b-3f8f28fbba40)
+![img4](https://github.com/user-attachments/assets/32d88d7c-a962-4316-838e-c446d9ee1ebd)
+
+
+
 
