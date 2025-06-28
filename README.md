@@ -127,6 +127,9 @@ frontend/
 ![img2](https://github.com/user-attachments/assets/3425372b-db34-46d2-bd64-a07cf3e037c8)
 ![img3](https://github.com/user-attachments/assets/2dfb36e1-6f04-41d7-b51b-3f8f28fbba40)
 ![img4](https://github.com/user-attachments/assets/32d88d7c-a962-4316-838e-c446d9ee1ebd)
+### initial ui blueprint
+![image](https://github.com/user-attachments/assets/29d7910a-fbc4-4011-b637-b30360be4b42)
+
 
 
 
